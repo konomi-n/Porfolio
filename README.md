@@ -1,4 +1,3 @@
-# Portfolio
 94870: Telling Stories with Data
 <br><br>
 
