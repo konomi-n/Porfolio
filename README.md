@@ -5,8 +5,9 @@ CMU 94870: Telling Stories with Data
 ###### About me
 > pronounced _"koh-noh-me"_; she/her/hers <br>
 > I am originally from Riverside, CA, now living in Pittsburgh, PA pursuing a degree in <br>
-> product development (MIIPS). I enjoy cooking with new ingredients/spices and trying <br>
-> cultural dishes from around the world. <br>
+> product development (MIIPS). My undergraduate degree is in bioengineering but my longest <br>
+> work experience is in tax accounting - I know, random. I enjoy cooking with new <br>
+> ingredients/spices and trying cultural dishes from around the world. <br>
 
 ###### What I hope to learn
 > I have difficultly condensing large amounts of information into succint presentations - <br>
