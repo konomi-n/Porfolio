@@ -16,5 +16,5 @@ CMU 94870: Telling Stories with Data
 > December 2021, I hope to work in the field of design strategy.
 
 <br><br>
-## Projects
+## Portfolio Projects
 ###### _Coming soon..._
