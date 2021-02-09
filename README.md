@@ -17,4 +17,4 @@
 
 <br><br>
 ## Projects
-###### _Coming Soon..._
+###### _Coming soon..._
