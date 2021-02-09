@@ -1,4 +1,4 @@
-94870: Telling Stories with Data
+CMU 94870: Telling Stories with Data
 <br><br>
 
 ## Konomi <br>
