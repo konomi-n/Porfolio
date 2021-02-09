@@ -1,7 +1,7 @@
 CMU 94870: Telling Stories with Data
 <br><br>
 
-## Konomi <br>
+## Konomi
 ###### About me
 > pronounced _"koh-noh-me"_; she/her/hers <br>
 > I am originally from Riverside, CA, now living in Pittsburgh, PA pursuing a degree in <br>
