@@ -18,4 +18,4 @@ CMU 94870: Telling Stories with Data
 
 <br><br>
 ## Portfolio Projects
-* [A Look at Global Government Debts](https://konomi-n.github.io/Portfolio/a1)
+* [A Look at Global Government Debts](https://konomi-n.github.io/Portfolio/a2)
