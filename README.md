@@ -1,6 +1,11 @@
 CMU 94870: Telling Stories with Data
 <br><br>
+## Portfolio Projects
+* [A Look at Global Government Debts](https://konomi-n.github.io/Portfolio/a2)
+* [Critique by Design](https://konomi-n.github.io/Portfolio/a3-a4)
+* [Part I: Final Project](http://konomi-n.github.io/Portfolio/p1)
 
+<br><br>
 ## Konomi
 ###### About me
 > pronounced _"koh-noh-me"_; she/her/hers <br>
@@ -15,9 +20,3 @@ CMU 94870: Telling Stories with Data
 > the underlying logic behind that process. I also don't quite have an intuitive sense on <br>
 > using color effectively so I am hoping to build that skill also. After graduating in <br>
 > December 2021, I hope to work in the field of design strategy.
-
-<br><br>
-## Portfolio Projects
-* [A Look at Global Government Debts](https://konomi-n.github.io/Portfolio/a2)
-* [Critique by Design](https://konomi-n.github.io/Portfolio/a3-a4)
-* [Part I: Final Project](http://konomi-n.github.io/Portfolio/p1)
