@@ -6,7 +6,7 @@ CMU 94870: Telling Stories with Data
 * [Part I: Final Project](http://konomi-n.github.io/Portfolio/p1)
 
 <br><br>
-## Konomi
+## Author: Konomi Nakajima
 ###### About me
 > pronounced _"koh-noh-me"_; she/her/hers <br>
 > I am originally from Riverside, CA, now living in Pittsburgh, PA pursuing a degree in <br>
