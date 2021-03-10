@@ -4,6 +4,7 @@ CMU 94870: Telling Stories with Data
 * [A Look at Global Government Debts](https://konomi-n.github.io/Portfolio/a2)
 * [Critique by Design](https://konomi-n.github.io/Portfolio/a3-a4)
 * [Part I: Final Project](http://konomi-n.github.io/Portfolio/p1)
+* [Part II: Final Project](http://konomi-n.github.io/Portfolio/p2)
 
 <br><br>
 ## Author: Konomi
