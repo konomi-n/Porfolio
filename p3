@@ -1,0 +1,50 @@
+CMU 94870: Telling Stories with Data
+<br><br>
+## Projects
+* [A Look at Global Government Debts](https://konomi-n.github.io/Portfolio/a2)
+* [Critique by Design](https://konomi-n.github.io/Portfolio/a3-a4)
+* [Final Project - Part I: Plan](http://konomi-n.github.io/Portfolio/p1)
+* [Final Project - Part II: Refine](http://konomi-n.github.io/Portfolio/p2)
+* [Final Project - Part III: Execute](http://konomi-n.github.io/Portfolio/p3)
+* [Final Data Story - Shorthand: Is Guaranteed Income Worth Looking Into?](https://carnegiemellon.shorthandstories.com/gi/index.html)
+
+<br><br>
+# Final Project - Part III: Execute
+
+## Final Data Story
+The final data story was created using Shorthand and can be viewed in the following link.
+[‘Is Guaranteed Income Worth Looking Into?’](https://carnegiemellon.shorthandstories.com/gi/index.html)
+
+
+## Reflection
+The two biggest challenge for my final data story was the timing in which I finalized the topic as well as the scarcity of data in the topic I chose. 
+
+I originally was interested in creating a story calling for more experimental data on Universal Basic Income (UBI). In my preliminary search of data, it became apparent that the few UBI experiments that did have open data didn’t have much of it. There was one where there were only around 15 participants from a particular demographic and location, which seemed too small of a sample size to create a story on. I had come across the data from the Finland Experiment with 2,000 participants; however, most of the data were only summarized reports and no big data sets. Another issue was that these few experiments were not technically _Universal_ Basic Income programs but were given to people who met certain conditions (more than just citizenship). This issue was mitigated by switching the focus of the story to Guaranteed Income (GI). 
+
+Nevertheless, the lack of datasets made me abandon this story by the time we were in Part I of the final project; hence, my Part I talks about increasing federal minimum wage. A breakthrough came when one of the in-class breakout sessions before the Part II assignment resulted in a classmate sharing with me the Stockton Experiment. When I went to go check the experiment details, the organization running the experiment had just published their Year 1 preliminary results. This result even included a small dataset of the spending categories of the participants, which made me feel confident to pursue this topic once again. 
+
+From there, I was a bit behind from the class assignments in terms of recreating another storyline. This time lag was a bit difficult to overcome; however, the in-class breakout sessions with my classmates as well as the user research interviews helped me greatly with fleshing this out. The dataset that came out of the Stockton Experiment was still not much, so the feedback was mostly on how to better support those key experiment findings with appropriate background story. The background data was pretty straightforward (column charts) so there were not feedback in terms of design for that. However, I received a feedback and points of improvement from all my interviewees in terms of the content (i.e., what additional data to present). 
+
+The reason I wanted to take this course was to improve my ability to concisely condense large amount of information into a visualized content. I don’t think I had a key “a-ha!” moment in terms of improving my intuitive understanding of design (e.g., use of color; layout, spacing, sizes of content), as in, these things are still a bit abstract to me. I still need to trial and error – by actually trying a few options out or even asking other people to take a look. One thing that I did feel that I got practice in was providing proper context for my train of thought. I often forget to do this and get that pointed out (as I did for user research section also). I feel that creating a “story” helped me improve that a bit. I had to constantly go back and make sure if I had presented proper context and flow to the story for everything to make sense, let alone move someone into performing an action.  
+
+## References
+All of the references that were used in the final data story is listed below as well as in the final data story page. 
+1.	Investopedia, "How Does the Current Cost of Living Compare to 20 Years Ago?," Dotdash, 25 February 2021. [Online]. Available: https://www.investopedia.com/ask/answers/101314/what-does-current-cost-living-compare-20-years-ago.asp.
+2.	M. Leonhardt, "Nearly half of Americans say rising cost of living is the greatest threat to financial security," CNBC, 5 February 2020. [Online]. Available: https://www.cnbc.com/2020/02/04/47-percent-of-americans-say-cost-of-living-is-top-threat-to-future-security.html.
+3.	TD Ameritrade, "2019 Financial Disruptions Survey," 2020, https://s2.q4cdn.com/437609071/files/doc_news/research/2019/financial-disruptions-survey.pdf.
+4.	J. M. Horowitz, R. Igielnik and R. Kochhar, "Most Americans Say There Is Too Much Economic Inequality in the U.S., but Fewer Than Half Call It a Top Priority," Pew Research Center, 9 January 2020. [Online]. Available: https://www.pewresearch.org/social-trends/2020/01/09/trends-in-income-and-wealth-inequality/.
+5.	Board of Governors of the Federal Reserve System, "Report on the Economic Well-Being of U.S. Households in 2018," 2019, https://www.federalreserve.gov/publications/2019-economic-well-being-of-us-households-in-2018-dealing-with-unexpected-expenses.htm.
+6.	S. Holder, "2021 Will Be the Year of Guaranteed Income Experiments," Bloomberg CityLab, 4 January 2021. [Online]. Available: https://www.bloomberg.com/news/articles/2021-01-04/guaranteed-income-gains-popularity-after-covid-19.
+7.	The World Bank, "Exploring Universal Basic Income : A Guide to Navigating Concepts, Evidence, and Practices," The World Bank, 4 February 2020. [Online]. Available: https://www.worldbank.org/en/topic/socialprotection/publication/exploring-universal-basic-income-a-guide-to-navigating-concepts-evidence-and-practices.
+8.	J. Germain, "Guaranteed Minimum Income: What Is It and How Is It Different From Universal Basic Income?," Teen Vogue, 16 February 2021. [Online]. Available: https://www.teenvogue.com/story/what-is-guaranteed-minimum-income.
+9.	J. Kasperkevic, "Universal basic income was a fringe idea. Then the COVID-19 pandemic happened.," Marketplace, 6 April 2020. [Online]. Available: https://www.marketplace.org/2020/04/06/universal-basic-income-was-a-fringe-idea-then-the-covid-19-pandemic-happened/.
+10.	C. B. Parker, "Stanford scholar explores pros, cons of ‘basic income’," Stanford News, 8 August 2018. [Online]. Available: https://news.stanford.edu/2018/08/08/stanford-scholar-explores-pros-cons-basic-income/.
+11.	T. Visram, "Guaranteed income is having a moment. The last time it did, it was because of Martin Luther King Jr.," FastCompany, 16 February 2021. [Online]. Available: https://www.fastcompany.com/90602957/guaranteed-income-is-having-a-moment-the-last-time-it-did-was-because-of-martin-luther-king.
+12.	Economic Security Project, "Cash is one of the most direct and effective way to provide financial stability to those who most need it.," Economic Security Project, 2019. [Online]. Available: https://www.economicsecurityproject.org/guaranteedincome/.
+13.	S. Vedantam, "The Scarcity Trap: Why We Keep Digging When We're Stuck In A Hole," NPR Hidden Brain, 2 April 2018. [Online]. Available: https://www.npr.org/transcripts/598119170.
+14.	Kela, "Results of Finland's basic income experiment," 05 June 2020. [Online]. Available: https://www.kela.fi/web/en/news-archive/-/asset_publisher/lN08GY2nIrZo/content/results-of-the-basic-income-experiment-small-employment-effects-better-perceived-economic-security-and-mental-wellbeing.
+15.	Stockton Economic Empowerment Demonstration, "Preliminary Analysis: SEED's First Year," Stockton, 2021.
+16.	E. Peaslee, "Results From The City That Just Gave Away Cash," NPR Planet Money, 9 March 2021. [Online]. Available: https://www.npr.org/sections/money/2021/03/09/975009239/results-from-the-city-that-just-gave-away-cash.
+17.	R. C. Kessler, G. Andrews, L. J. Colpe, E. Hiripi, D. K. Mroczek, S.-L. T. Normand, E. E. Walters and A. M. Zaslavsky, "Short screening scales to monitor populationprevalences and trends in non-speciÆc psychologicaldistress," Psychological Medicine, vol. 32, pp. 959-976, 2002. 
+18.	T. Allas, J. Maksimainen, J. Manyika and N. Singh, "An experiment to inform universal basic income," McKinsey & Company, 15 September 2020. [Online]. Available: https://www.mckinsey.com/industries/public-and-social-sector/our-insights/an-experiment-to-inform-universal-basic-income.
+19.	M. Calvey, "Bay Area cities debuting guaranteed income programs to help those in need, but who will pay for them?," San Francisco Business Times, 4 March 2021. [Online]. Available: https://www.bizjournals.com/sanfrancisco/news/2021/03/04/bay-area-cities-debuting-guaranteed-income-program.html.
